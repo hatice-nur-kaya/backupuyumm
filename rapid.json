@@ -1,0 +1,18 @@
+{
+    "program": {
+        "id": 1,
+        "client_id": "Rapid360",
+        "client_secret": "1234567890",
+        "DealerID": "22224008",
+        "EInvoiceCode": "2E2R2B2I4"
+    },
+    "webService": {
+        "url": "https://efatura-test.ada.com.tr/efatura/ws/efaturatest",
+        "username": "104152246",
+        "password": "104152246"
+    }
+}
+
+
+
+

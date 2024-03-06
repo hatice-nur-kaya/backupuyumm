@@ -1,0 +1,54 @@
+
+{
+    "program": {
+        "id": 1,
+        "title": "Luca E-Defter",
+        "username": "luca",
+        "password": "luca",
+        "customerNumber": "1234567890",
+        "lucaCompanies": [
+            {
+                "companyName": "ADA EL SAN",
+                "companyCode": "104152246",
+                "periodId": "28447783",
+                "periodTitle": "2023",
+                "eDefterSubeAdi": "",
+                "eDefterSubeKodu": "",
+                "taxId": "104152246",
+                "belgeTurleri": [
+                    {
+                        "FT": "OE"
+                    }
+                ],
+                "webService": {
+                    "url": "https://efatura-test.ada.com.tr/efatura/ws/efaturatest",
+                    "username": "104152246",
+                    "password": "104152246"
+                }
+            },
+            {
+                "companyName": "ADA EL SAN",
+                "companyCode": "104152246",
+                "periodId": "28447783",
+                "periodTitle": "2023",
+                "eDefterSubeAdi": "",
+                "eDefterSubeKodu": "",
+                "taxId": "104152246",
+                "belgeTurleri": [
+                    {
+                        "FT": "OE"
+                    }
+                ],
+                "webService": {
+                    "url": "https://efatura-test.ada.com.tr/efatura/ws/efaturatest",
+                    "username": "104152246",
+                    "password": "104152246"
+                }
+            }
+        ]
+    }
+}
+
+
+
+

@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "program": {
+            "id": 1,
+            "taxNumber": "Datasoft E-Defter",
+            "eDefterSubeKodu": "",
+            "eDefterSubeAdi": ""
+        },
+        "webService": {
+            "url": "https://efatura-test.ada.com.tr/efatura/ws/efaturatest",
+            "username": "104152246",
+            "password": "104152246"
+        }
+    },
+    "company_id": 1,
+    "module_id": 1
+}
+
+
+
+

@@ -1,0 +1,24 @@
+{
+    "program": {
+        "id": 1,
+        "clientId": "Parasut",
+        "clientSecret": "1234567890",
+        "username": "admin",
+        "password": "admin",
+        "parasutCompanies": [
+            {
+                "name": "ADA EL SAN",
+                "id": "104152246",
+                "webService": {
+                    "url": "https://efatura-test.ada.com.tr/efatura/ws/efaturatest",
+                    "username": "104152246",
+                    "password": "104152246"
+                }
+            }
+        ]
+    }
+}
+
+
+
+
